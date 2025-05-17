@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
-📌Atuando como Desenvolvedor de Software  <br>
+📌Atuando como Desenvolvedor de Software.  <br>
 📌Cursando o 1º semestre de Sistemas de Informação na Universidade Federal de Juiz de Fora - (UFJF). <br>
 📌Formado no curso técnico em Desenvolvimento de Sistemas. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
