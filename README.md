@@ -5,7 +5,7 @@
 ##
 📌Atuando como Desenvolvedor de Software.  <br>
 📌Cursando o 1º semestre de Sistemas de Informação na Universidade Federal de Juiz de Fora - (UFJF). <br>
-📌Formado no curso técnico em Desenvolvimento de Sistemas. <br>
+📌Formado no curso técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sudeste de Minas Gerais. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 ## 💻 Tech Stack:
