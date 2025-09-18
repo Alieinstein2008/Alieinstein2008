@@ -23,7 +23,6 @@
    <img  src="  https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
   
     
-   <img src="avatar02Alonso.png" width="150px" align="right" borderRadius="100px" />  
 </div>
 
 
