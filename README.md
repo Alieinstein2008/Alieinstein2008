@@ -1,53 +1,107 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+<!--
+███████╗██████╗ ██╗   ██╗███████╗██████╗ ███████╗██████╗ ██╗     
+██╔════╝██╔══██╗██║   ██║██╔════╝██╔══██╗██╔════╝██╔══██╗██║     
+█████╗  ██████╔╝██║   ██║█████╗  ██║  ██║█████╗  ██████╔╝██║     
+██╔══╝  ██╔══██╗██║   ██║██╔══╝  ██║  ██║██╔══╝  ██╔══██╗██║     
+███████╗██║  ██║╚██████╔╝███████╗██████╔╝███████╗██║  ██║███████╗
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
+-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+<h1 align="center">Arthur Alonso</h1>
 
-##
-📌Atuando como Desenvolvedor de Software.  <br>
-📌Cursando o 1º semestre de Sistemas de Informação na Universidade Federal de Juiz de Fora - (UFJF). <br>
-📌Formado no curso técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sudeste de Minas Gerais. <br>
-📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
-
-## 💻 Tech Stack:
-
-<div>
-    <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img  src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-   <img  src="  https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-   <img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img  src="  https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  
-    
-</div>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_alonsow_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arthur-alonso-marcelino-domingos-51b9bb1a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthuralonsobussines@gmail.com) 
-##
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alieinstein2008&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alieinstein2008&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alieinstein2008&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
- 
-
-
-
-
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alieinstein2008}/count.svg" /></p> 
-<br>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
-
+<p align="center">
+  <strong>Software Developer • Clean Code Advocate • Problem Solver</strong>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alieinstein2008&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📍 Current Role
+
+🔹 **Estágiario de T.I** at *Agência de Proteção e Defesa do Consumidor*  
+🔹 Foco em desenvolvimento completo, análise de dados, automação, arquitetura de software e soluções backend escaláveis  
+🔹 Entusiasta por boas práticas, qualidade de código , entrega contínua, desenvolvimento fullstack, cybersecurity e datascience
+
+---
+
+## 👨‍💻 About Me
+
+Sou um desenvolvedor de software com foco em soluções eficientes, entendimento completo do sistema, arquitetura limpa e padrões robustos.  
+Tenho experiência com projetos completos (backend & frontend) e sou movido por desafios que exigem lógica, organização e impacto real.
+Atualmente estudando sobre segurança da informação e análise de dados, com raspagem de dados em sistemas reais e governamentais para automação de projetos de pesquisas e estudos
+
+💡 Meu código é pensado para ser **claro, sustentável e corporativo** — ideal para times profissionais e ambientes de produção.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,prisma,postgres,js,react,nodejs,sequelize,express,html,css,php,python,git" />
+</p>
+
+**Principais habilidades:**
+- 🧠 TypeScript & JavaScript
+- 🚀 Node.js
+- ⚛️ React.js & Nextjs + Tailwind / Frontend moderno
+- 🗄️ SQL & modelagem de dados
+- 🛡️ Clean Architecture & boas práticas
+
+---
+
+## 📌 Projects You Should See
+
+### 💼 Key Repositories
+
+| Projeto | Stack | O que faz |
+|---------|--------|------------|
+| **Web-Scraping-Proconsumidor** | *Typescript e Analise de Dados* | *Ferramenta em construçaõ de WebScraping à um sistema governamental público, com intuito educacional* |
+| **Gerenciamento de Informações (Backend)** | Node.js, Express, SQLite | API bem estruturada com padrões corporativos |
+| **Gerenciamento de Informações (Frontend)** | React.js | Consumo de API com interface limpa |
+| **Quiz de Bandeiras** | React.js | Quiz dinâmico usando API pública |
+| **Jogo da Velha (Tic-Tac-Toe)** | React.js | Projeto UI focado em lógica e estado |
+| **Gerador de Senhas** | Python | Ferramenta utilitária com GUI |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Alieinstein2008&theme=dark&hide_border=true&background=00000000" 
+    height="150"
+  />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:arthuralonsobussines@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arthuralonsomarcelino/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_alonsow_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🗺️ Professional Highlights
+
+- 🟢 Experiência em APIs RESTful bem estruturadas  
+- 🟢 Boas práticas de desenvolvimento moderno  
+- 🟢 Código limpo com foco em manutenção  
+- 🟢 Projetos voltados para resultados reais
+- 🟢 Análise de Dados
+- 🟢 Segurança da Informação
+- 🟢 Proatividade e resolução de problemas
+
+---
+
+<p align="center">
+  <i>“Great software is built on simplicity, reliability and clarity.”</i>
+</p>
